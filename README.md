@@ -1,6 +1,6 @@
 # musicplayer
 
-This Music Player includes no libaray support (Custom Code)
+This Music Player includes no library support (Custom Code)
 
 ## Getting Started
 
